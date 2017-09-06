@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ROTOMGear</string>
+    <string name="main_title">洛托姆のGear</string>
+    <string name="id_check">身份证号解析</string>
 </resources>

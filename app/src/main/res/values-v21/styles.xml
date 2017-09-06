@@ -9,7 +9,9 @@
     </style>
 
     <style name="MainTheme" parent="AppTheme">
+        <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
     <style name="SonTheme" parent="AppTheme">
+        <item name="android:statusBarColor">@color/colorPrimary</item>
     </style>
 </resources>
