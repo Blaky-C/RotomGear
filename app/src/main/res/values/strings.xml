@@ -2,4 +2,13 @@
     <string name="app_name">ROTOMGear</string>
     <string name="main_title">洛托姆のGear</string>
     <string name="id_check">身份证号解析</string>
+
+    <string name="cryption_title">加密算法</string>
+    <string name="encryption">加密</string>
+    <string name="decryption">解密</string>
+    <string-array name="cryption_type">
+        <item>Caesar</item>
+        <item>Substitution</item>
+        <item>Polybius</item>
+    </string-array>
 </resources>

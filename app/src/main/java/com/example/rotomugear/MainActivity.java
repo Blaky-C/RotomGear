@@ -78,4 +78,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, IDCheckActivity.class);
         startActivity(intent);
     }
+
+    public void CryptionActivityStart(View view){
+        Intent intent = new Intent(this, CryptionActivity.class);
+        startActivity(intent);
+    }
 }
