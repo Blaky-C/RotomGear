@@ -83,4 +83,19 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, CryptionActivity.class);
         startActivity(intent);
     }
+
+    public void StopwatchActivityStart(View view){
+        Intent intent = new Intent(this, StopwatchActivity.class);
+        startActivity(intent);
+    }
+
+    public void PlayerActivityStart(View view){
+        Intent intent = new Intent(this, PlayerActivity.class);
+        startActivity(intent);
+    }
+
+    public void BaiduLBSActivityStart(View view){
+        Intent intent = new Intent(this, BaiduLBSActivity.class);
+        startActivity(intent);
+    }
 }

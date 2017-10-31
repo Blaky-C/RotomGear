@@ -56,6 +56,33 @@
                 android:onClick="CryptionActivityStart"
                 android:text="加密算法" />
 
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:onClick="StopwatchActivityStart"
+                android:text="秒表应用" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:onClick="PlayerActivityStart"
+                android:text="音乐播放器" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:onClick="BaiduLBSActivityStart"
+                android:text="定位数据" />
+
         </LinearLayout>
 
     </android.support.design.widget.CoordinatorLayout>

@@ -11,4 +11,8 @@
         <item>Substitution</item>
         <item>Polybius</item>
     </string-array>
+
+    <string name="stop_watch">秒表应用</string>
+    <string name="music_player">音乐播放器</string>
+    <string name="location">定位数据</string>
 </resources>
